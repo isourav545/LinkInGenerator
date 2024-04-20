@@ -2,7 +2,7 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-10">
+    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-10 sm:grid-cols-2 md:grid-cols-3">
     <a href="#">
       <img class="rounded-t-lg" src="https://pbs.twimg.com/media/GLg1PKxW8AAPVPq?format=jpg&name=large" alt="" />
     </a>
